@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Made with ❤️ by Your Name**
+**Made with ❤️ by NSANZIMANA R.D. Parfait**
 
 [⬆ back to top](#konvata)
 
